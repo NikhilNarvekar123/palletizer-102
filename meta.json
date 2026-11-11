@@ -9,7 +9,7 @@
     }
   ],
   "visibility": "private",
-  "url": "",
+  "url": "https://github.com/NikhilNarvekar123/palletizer-102.git",
   "description": "picks and places boxes",
   "markdown_link": "README.md",
   "entrypoint": "dist/main",
